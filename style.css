@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Poppins:ital,wght@0,400;0,600;0,700;0,900;1,400;1,700&display=swap');
+*{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+.contianer{
+    color: white;
+    background-image: url("https://ik.imagekit.io/4z8covdo9/Full%20stack/todolistbg.png?updatedAt=1700761069523");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.h-center{
+    text-align: center;
+}
+
+.main-head{
+    font-size: 4em;
+    font-weight: 600;
+    padding: 0;
+    margin: 0;
+}
+
+.side-head{
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+.f-center{
+    text-align: center;
+    
+}
+
+.f-center p{
+    text-decoration: underline;
+}
+
+.start-btn{
+    background-color: orange;
+    background-image: none;
+    padding:10px 30px;
+    /* border: 1px solid black; */
+}
